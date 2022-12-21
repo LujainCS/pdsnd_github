@@ -17,5 +17,6 @@ The required files for running this program are:
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+A list of the gear, software, and firmware you could need.
+Installing GIT tool for Mac and Windows: https://git-scm.com/downloads.
 
