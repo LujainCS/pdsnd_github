@@ -23,3 +23,6 @@ Installing GIT tool for Mac and Windows: https://git-scm.com/downloads.
 Project Submission:
 The Project Submission was a template that was filled up with all the Git commands necessary to complete the desired tasks.
 
+My Certificate of Completion:
+I will add soon :)
+
